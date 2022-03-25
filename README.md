@@ -114,8 +114,8 @@ Comments (V2)
 
 ## Additional Libraries
 Use this section to list all supporting libraries and thier role in the project. -->
-- React-Native
+- React-Native // https://www.youtube.com/watch?v=0-S5a0eXPoc&ab_channel=ProgrammingwithMosh
 - Django
--https://www.youtube.com/watch?v=0-S5a0eXPoc&ab_channel=ProgrammingwithMosh
+
 
 ## Code Snippet
