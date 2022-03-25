@@ -107,10 +107,10 @@ Comments (V2)
 |client crud  |	H        |	8hr           |                |
 |client route |	H        |	2hr           |                |
 |feed         |	H        |	2hr           |                |
-|new post     |	H        |	2hr           |                |
+|new post     |	H        |	6hr           |                |
 |header/footer|	H        |	2hr           |                |
 |style        |	M        |	6hr           |                |
-|Total	      | H	     |  20hr	      |                |
+|Total	      | H	     |  34hr	      |                |
 
 ## Additional Libraries
 Use this section to list all supporting libraries and thier role in the project. -->
