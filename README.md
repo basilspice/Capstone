@@ -1,29 +1,3 @@
-# Capstone
-# The Spot
-# Picture Uploader of local unnamed spots
-#
-# Users are able to sort the pictures by season, or state
-# Users must make an account to upload pictures but not to view them
-# V2 Users can save pictures to their account 
-# 
-#
-# Models
-# Post
-#   SpotName 
-#   State
-#   Date    
-#   User
-#   Image
-#   
-# User
-#   login
-#   password
-#
-#
-#
-#
-#
-#
 ## **Overview**
 #### [GITHUB PAGES LINK]()
 <!-- ![image](image file) -->
@@ -60,27 +34,31 @@ Posts
 - (V2)Comments: SubDoc
 - (V2)Tags: Array
 
-Comment 
+User
+- AccountName: String
+- Password: String
+
+
+
+
+Comments (V2)
 - Name: String
 - Date: Date.now
 - Comment: String
 - Up/downvote: Number (probably toggle related to prevent multiple likes from one user)
 
-User
+
 
 
 ## Inspiration:
 - Insta
 - Trailforks
 
-## references for how-tos and used code snippets
 
-## Scratchpad low fidelity ideas
-  #### minimal website layout
 
 ## Wireframes
 <!-- Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page. -->
-- ![image](./images/wireframe.png)
+- ![image]()
 <!--
  -->
 # MVP/PostMVP - 5min
@@ -90,10 +68,11 @@ User
 - Interactive client side allowing posts to be generated
 - Users can delete only their own posts
 - a basic feed displaying posts
-## v1.5- ability to search for posts based on state or date(seasons)
+- *v1.5* ability to search for posts based on state
 
 ## POST MVP
-- Interactions with 
+- Interactions with posts to add comments and likes
+- Creating Seasons from the Dates generated so that users can sort by season
 
 ## REACT ARCHITECTURE
 | Component | Description | 
@@ -101,9 +80,9 @@ User
 | App       | This will render the react components | 
 | Nav       | This will enable users to navigate sections of the site                | 
 | create post | This will enable the user to create and store a post for others to see and interact with |
-| post page | This will enable the user to interact with a specific post by commenting or up/downvoting |
+| post page | This will enable the user to interact with a specific post  |
 | feed      | This will display the list of posts stored in the api |
-| about us | This will display a short bit about each developer |
+| userposts | This will display all posts from the user |
 | footer | This will display the trademark and lack of liability, scroll to top |
 | header | This will display the logo and nav menu, stickied to top |
 
@@ -121,19 +100,20 @@ User
 | Component   | Priority | Estimated Time |	Actual Time    |
 |-------------|----------|----------------|----------------|
 |Schemas      |	H        |	1hr           |                |
-|api connect  |	H        |	1hr           |                |
-|api crud     |	H        |	2hr           |                |
-|client crud  |	H        |	4hr           |                |
+|backend stucture  |	H        |	4hr           |                |
+|backend crud/testing  |	H        |	4hr           |                |
+|client crud  |	H        |	8hr           |                |
 |client route |	H        |	2hr           |                |
 |feed         |	H        |	2hr           |                |
 |new post     |	H        |	2hr           |                |
-|about        |	H        |	2hr           |                |
 |header/footer|	H        |	2hr           |                |
-|style        |	M        |	2hr           |                |
+|style        |	M        |	6hr           |                |
 |Total	      | H	     |  20hr	      |                |
 
 ## Additional Libraries
 Use this section to list all supporting libraries and thier role in the project. -->
-- React-Bootstrap: Design / Visual
+- React-Native
+- Django
+-https://www.youtube.com/watch?v=0-S5a0eXPoc&ab_channel=ProgrammingwithMosh
 
 ## Code Snippet
