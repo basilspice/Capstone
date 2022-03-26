@@ -61,7 +61,9 @@ Comments (V2)
 ## Wireframes
 <!-- Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page. -->
 
+
 - ![image](/planning/wireframeCapstone.png)
+
 
 <!--
  -->
@@ -119,7 +121,7 @@ Use this section to list all supporting libraries and thier role in the project.
 - React-Native using EXPO CLI// https://www.youtube.com/watch?v=0-S5a0eXPoc&ab_channel=ProgrammingwithMosh
 - Django
 
-## Useful Resources
+## Helpful Resources
 https://www.reactnativeschool.com/how-to-upload-images-in-a-react-native-app
 https://www.waldo.com/blog/add-an-image-picker-react-native-app
 https://www.npmjs.com/package/react-native-photo-upload
