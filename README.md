@@ -121,5 +121,8 @@ Use this section to list all supporting libraries and thier role in the project.
 - React-Native using EXPO CLI// https://www.youtube.com/watch?v=0-S5a0eXPoc&ab_channel=ProgrammingwithMosh
 - Django
 
-
+## Helpful Resources
+https://www.reactnativeschool.com/how-to-upload-images-in-a-react-native-app
+https://www.waldo.com/blog/add-an-image-picker-react-native-app
+https://www.npmjs.com/package/react-native-photo-upload
 ## Code Snippet
