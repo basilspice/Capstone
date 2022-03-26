@@ -4,6 +4,8 @@
 
 ## proj description
 
+The Spot
+
 A full stack app that uses React Native and Django as a back end. Users will be able to create an account and upload pictures of their 'spots' (biking, skiing, hiking, camping, etc). When posting Users will be able to Name their Spot, Select State, It will auto fill the date. Post MVP will have interactions between users with comments and messages
 
 ## user stories
@@ -58,7 +60,9 @@ Comments (V2)
 
 ## Wireframes
 <!-- Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page. -->
+
 - ![image](/planning/wireframeCapstone.png)
+
 <!--
  -->
 # MVP/PostMVP - 5min
@@ -105,15 +109,15 @@ Comments (V2)
 |client crud  |	H        |	8hr           |                |
 |client route |	H        |	2hr           |                |
 |feed         |	H        |	2hr           |                |
-|new post     |	H        |	2hr           |                |
+|new post     |	H        |	6hr           |                |
 |header/footer|	H        |	2hr           |                |
 |style        |	M        |	6hr           |                |
-|Total	      | H	     |  20hr	      |                |
+|Total	      | H	     |  34hr	      |                |
 
 ## Additional Libraries
 Use this section to list all supporting libraries and thier role in the project. -->
-- React-Native
+- React-Native using EXPO CLI// https://www.youtube.com/watch?v=0-S5a0eXPoc&ab_channel=ProgrammingwithMosh
 - Django
--https://www.youtube.com/watch?v=0-S5a0eXPoc&ab_channel=ProgrammingwithMosh
+
 
 ## Code Snippet
