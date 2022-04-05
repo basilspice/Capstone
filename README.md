@@ -16,13 +16,27 @@ A full stack app that uses React Native and Django as a back end. Users will be 
 **Tammy** Tammy is from the PNW. Tammy loves to ski in the winter time, and bikes in the summer time. Typically Tammy will hop on the app on her lunch break to see if there are maybe any cool new spots that are posted that she doesnt recognize
 
 ## Day	Deliverable	Status
-- [] Day 1	Figuring Out what Idea Im sticking with
-- [] Day 1.5	Wireframes / Priority Matrix / Timeline
-- [] Day 2	Backend
+- [X] Day 1	Figuring Out what Idea Im sticking with
+- [X] Day 1.5	Wireframes / Priority Matrix / Timeline
+- [X] Day 2	Backend
 - [] Day 3	Learning React Native/Building out Front End
 - [] Day 4	Learning to link front and back end (prolly still learning react native)
 - [] Day 5  Actually linking front and back end
 - [] Day 6  
+
+
+## What Actually Happened
+-  Friday>	Figuring Out what Idea Im sticking with/Approval
+-  Monday> Backend
+-  Tuesday>AM	Full CRUD with Image Uploading and Auth.
+-  Tuesday>PM Starting To Setup React Native dev env 
+-  Wednesday> Setting up React Native Dev env aka Windows Debugging day
+-  Thursday>AM Got a very basic welcome screen in react native but a lot of packages and things are not working
+-  Thursday>PM I need a win I am gonna deploy my back end so I at least get that done. React Native has so many bugs in the dev env on windows
+-  Friday>Trying to downgrade Python since the newest versions cause some issues when deploying. It actually broke my back-end to the point of its faster to just copy --paste the code over to a new app. Also my front end died
+-  Saturday>Worked
+-  Sunday>Debugging from the time I woke up to the time I went to bed. Bought the Mosh tutorial in a panic since its the only thing that got me anywhere on the RN side
+-  Monday>Watching that Mosh tutorial is the only reason I have what I have also WHY DOES REACT NAVIGATION STACK JUST NOT WORK ON WINDOWS
 
 # Project Description
 
